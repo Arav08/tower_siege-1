@@ -122,3 +122,9 @@ function mouseDragged(){
 function mouseReleased(){
   slingShot.fly();
 }
+
+function keyPressed(){
+  if (keyDown(SPACE){
+      ball.attach(slingahot)
+  }
+}
